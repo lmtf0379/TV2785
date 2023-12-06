@@ -1,9 +1,9 @@
 //更多直播源请关注 公众号：看电视呗
 🐼丨官方专区,#genre#
-CCTV-2 *经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV-2 才经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV-5 体育,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_pd.m3u8#http://mlivewbndali.v.myalicdn.com/mlivewbnd/mlive44_2pd.m3u8
 CCTV-6 电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8#http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
-CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
 广西卫视,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8#http://live.gxrb.com.cn/tv/gxtvlive01/index.m3u8
@@ -19,7 +19,7 @@ CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https:
 
 🐼丨咪咕专区,#genre#
 CCTV-1 综合,https://www.sxtv.top/migu.php?id=cctv1b#http://www.biaozhun114.com/dl/dl666/aikan.php?id=1#http://www.biaozhun114.com/dl/dl666/aikan.php?id=2
-CCTV-2 财经,https://www.sxtv.top/migu.php?id=cctv2#http://www.biaozhun114.com/dl/dl666/aikan.php?id=3
+CCTV-2 才经,https://www.sxtv.top/migu.php?id=cctv2#http://www.biaozhun114.com/dl/dl666/aikan.php?id=3
 CCTV-3 综艺,https://www.sxtv.top/migu.php?id=cctv3#http://www.biaozhun114.com/dl/dl666/aikan.php?id=4
 CCTV-4 国际,https://www.sxtv.top/migu.php?id=cctv4#http://www.biaozhun114.com/dl/dl666/aikan.php?id=5
 CCTV-4 欧洲,http://www.biaozhun114.com/dl/dl666/gzyd.php?6268
@@ -88,7 +88,7 @@ CHC家庭影院,https://www.sxtv.top/migu.php?id=chcjtyy#http://www.biaozhun114.
 
 🐼丨移动IPV6,#genre#
 CCTV-1 综合,http://www.biaozhun114.com/tvbox/iptv9.php?1022
-CCTV-2 财经,http://www.biaozhun114.com/tvbox/iptv9.php?1220
+CCTV-2 才经,http://www.biaozhun114.com/tvbox/iptv9.php?1220
 CCTV-3 综艺,http://www.biaozhun114.com/tvbox/iptv9.php?1186
 CCTV-4 国际,http://www.biaozhun114.com/tvbox/iptv9.php?1221
 CCTV-5 体育,http://www.biaozhun114.com/tvbox/iptv8.php?6587#http://www.biaozhun114.com/tvbox/iptv9.php?1187
@@ -148,8 +148,8 @@ CCTV-17 农业,http://www.biaozhun114.com/tvbox/iptv9.php?1241
 法治天地,http://www.biaozhun114.com/tvbox/iptv9.php?1195
 都市剧场,http://www.biaozhun114.com/tvbox/iptv9.php?1203
 金色学堂,http://www.biaozhun114.com/tvbox/iptv9.php?1194
-家庭理财,http://www.biaozhun114.com/tvbox/iptv9.php?1278
-财富天下,http://www.biaozhun114.com/tvbox/iptv9.php?1219
+家庭理才,http://www.biaozhun114.com/tvbox/iptv9.php?1278
+才富天下,http://www.biaozhun114.com/tvbox/iptv9.php?1219
 纪实科教,http://www.biaozhun114.com/tvbox/iptv9.php?1231
 中国天气,http://www.biaozhun114.com/tvbox/iptv9.php?1102
 金鹰纪实,http://www.biaozhun114.com/tvbox/iptv9.php?1230
@@ -322,7 +322,7 @@ CCTV高尔夫网,http://111.20.40.170/PLTV/88888893/224/3221226978/index.m3u8
 北京|北京文艺,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/index.m3u8
 北京|北京影视,https://iptv.luas.edu.cn/liverespath/81c76654ab5e6ce4d49c97b9eeccebcf3f579c01/index.m3u8
 北京|北京影视,https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
-北京|北京*经,https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/index.m3u8
+北京|北京才经,https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/index.m3u8
 北京|纪实科教,https://iptv.luas.edu.cn/liverespath/72e61aa5ca26beb9dd17a950d2a8c6171a5cd998/index.m3u8
 北京|北京体育,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
 北京|北京体育,https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/index.m3u8
@@ -1361,8 +1361,8 @@ CCTV-5+高清,http://media.hndyjyfw.gov.cn/live/jz-cctv-5-plus/live.m3u8
 //兰州交通
 CCTV1综合,https://iptv.luas.edu.cn/liverespath/ddd8a0727fb304df5adb6926e09d6000ecd0e322/index.m3u8
 CCTV1综合高清,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
-CCTV2*经,https://iptv.luas.edu.cn/liverespath/4a76af41d4831385db6f97ef28ed3240e9a04c72/index.m3u8
-CCTV2*经高清,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/index.m3u8
+CCTV2才经,https://iptv.luas.edu.cn/liverespath/4a76af41d4831385db6f97ef28ed3240e9a04c72/index.m3u8
+CCTV2才经高清,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/index.m3u8
 CCTV3综艺,https://iptv.luas.edu.cn/liverespath/4112f13561cff5bd2be250480f4abed975bf48a1/index.m3u8
 CCTV3综艺高清,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/index.m3u8
 CCTV4中文国际,https://iptv.luas.edu.cn/liverespath/487288bea52497cdd5be093cdd29156a3548575f/index.m3u8
@@ -1496,109 +1496,6 @@ CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9
 北京卡酷少儿,https://iptv.luas.edu.cn/liverespath/b928229e615248d7a2c6f9ea047f25cf37a3a0af/index.m3u8
 上海纪实人文高清,https://iptv.luas.edu.cn/liverespath/98a578339579ce91ec2443bfbd1fc3af10ee02bd/index.m3u8
 
-
-
-🐼丨玉林电信,#genre#
-东森新闻台1[1920*1080],http://116.11.140.52:8181/tsfile/live/1201_1.m3u8
-东森*经新闻台03[1920*1080],http://116.11.140.52:8181/tsfile/live/1203_1.m3u8
-星空卫视08[1920*1080],http://116.11.140.52:8181/tsfile/live/1208_1.m3u8
-东森洋片18[1920*1080],http://116.11.140.52:8181/tsfile/live/1218_1.m3u8
-东森电影22[1920*1080],http://116.11.140.52:8181/tsfile/live/1222_1.m3u8
-龙翔时代05[1920*1080],http://116.11.140.52:8181/tsfile/live/1205_1.m3u8
-凤凰中文台07[1920*1080],http://116.11.140.52:8181/tsfile/live/1207_1.m3u8
-凤凰资讯台21[1920*1080],http://116.11.140.52:8181/tsfile/live/1221_1.m3u8
-私人电影10[1920*1080],http://116.11.140.52:8181/tsfile/live/1210_1.m3u8
-广西综艺高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1001_1.m3u8
-珠江频道[785*576],http://116.11.140.52:8181/tsfile/live/1031_1.m3u8
-广东影视[785*576],http://116.11.140.52:8181/tsfile/live/1030_1.m3u8
-南方卫视[785*576],http://116.11.140.52:8181/tsfile/live/1029_1.m3u8
-广东体育[785*576],http://116.11.140.52:8181/tsfile/live/1026_1.m3u8
-广东科技[785*576],http://116.11.140.52:8181/tsfile/live/1027_1.m3u8
-测试频道02[1920*1080],http://116.11.140.52:8181/tsfile/live/1202_1.m3u8
-测试频道09[1920*1080],http://116.11.140.52:8181/tsfile/live/1209_1.m3u8
-测试频道11[1920*1080],http://116.11.140.52:8181/tsfile/live/1211_1.m3u8
-测试频道13[1920*1080],http://116.11.140.52:8181/tsfile/live/1213_1.m3u8
-测试频道15[1920*1080],http://116.11.140.52:8181/tsfile/live/1215_1.m3u8
-测试频道16[1920*1080],http://116.11.140.52:8181/tsfile/live/1216_1.m3u8
-测试频道17[1920*1080],http://116.11.140.52:8181/tsfile/live/1217_1.m3u8
-测试频道19[1920*1080],http://116.11.140.52:8181/tsfile/live/1219_1.m3u8
-测试频道23[1920*1080],http://116.11.140.52:8181/tsfile/live/1223_1.m3u8
-测试频道24[1920*1080],http://116.11.140.52:8181/tsfile/live/1224_1.m3u8
-经典电影[720*576],http://116.11.140.52:8181/tsfile/live/1067_1.m3u8
-高清电影[1920*1080],http://116.11.140.52:8181/tsfile/live/1060_1.m3u8
-家庭影院 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1058_1.m3u8
-动作电影 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1059_1.m3u8
-南宁影视 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1085_1.m3u8
-广西影视 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1033_1.m3u8
-CCTV1-综合高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts/0001_1.m3u8
-CCTV2-*经高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0002_1.m3u8
-CCTV3-综艺高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts/0003_1.m3u8
-CCTV4-国际高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0004_1.m3u8
-CCTV5-体育高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0005_1.m3u8
-CCTV6-电影[1920*1080],http://116.11.140.52:8181/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV7-国防军事高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0007_1.m3u8
-CCTV8-电视剧高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts/0008_1.m3u8
-CCTV9-纪录高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0009_1.m3u8
-CCTV10-科教高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0010_1.m3u8
-CCTV11-戏曲高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0011_1.m3u8
-CCTV-12社会与* 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0012_1.m3u8
-CCTV13-新闻[785*576],http://116.11.140.52:8181/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14-少儿 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0014_1.m3u8
-CCTV15-音乐高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0015_1.m3u8
-CCTV-16-奥运匹克 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1051_1.m3u8
-CCTV-17农业农村 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0019_1.m3u8
-CCTV5+体育赛事高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts/1046_1.m3u8
-玉林公共 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1038_1.m3u8
-玉林新闻 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1037_1.m3u8
-南宁新闻 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1083_1.m3u8
-广西新闻 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1034_1.m3u8
-广西卫视 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts/0113_1.m3u8
-浙江卫视高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts/0127_1.m3u8
-深圳卫视高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts/0126_1.m3u8
-江苏卫视高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts/1042_1.m3u8
-山东卫视高清[768*576],http://116.11.140.52:8181/tsfile/live/1043_1.m3u8
-东方卫视高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts/1045_1.m3u8
-辽宁卫视 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1092_1.m3u8
-江西卫视 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1094_1.m3u8
-四川卫视 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1095_1.m3u8
-安徽卫视 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1096_1.m3u8
-贵州卫视 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1097_1.m3u8
-南宁公共 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1084_1.m3u8
-东南卫视 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1086_1.m3u8
-广西新闻回放[785*576],http://116.11.140.52:8181/tsfile/live/1050_1.m3u8
-央视新闻回放[785*576],http://116.11.140.52:8181/tsfile/live/1049_1.m3u8
-广东新闻[785*576],http://116.11.140.52:8181/tsfile/live/1023_1.m3u8
-广东民生[785*576],http://116.11.140.52:8181/tsfile/live/1024_1.m3u8
-中国气象[785*576],http://116.11.140.52:8181/tsfile/live/1063_1.m3u8
-玉林信息[768*576],http://116.11.140.52:8181/tsfile/live/1040_1.m3u8
-兴业台[768*576],http://116.11.140.52:8181/tsfile/live/1115_1.m3u8
-茶频道[785*576],http://116.11.140.52:8181/tsfile/live/1000_1.m3u8
-武术世界[785*576],http://116.11.140.52:8181/tsfile/live/1070_1.m3u8
-足球频道[768*576],http://116.11.140.52:8181/tsfile/live/1087_1.m3u8
-中学生[785*576],http://116.11.140.52:8181/tsfile/live/1113_1.m3u8
-摄影频道[785*576],http://116.11.140.52:8181/tsfile/live/1076_1.m3u8
-新动漫[768*576],http://116.11.140.52:8181/tsfile/live/1017_1.m3u8
-金鹰卡通[785*576],http://116.11.140.52:8181/tsfile/live/1064_1.m3u8
-动漫秀场[1047*576],http://116.11.140.52:8181/tsfile/live/1088_1.m3u8
-少儿动画[720*576],http://116.11.140.52:8181/tsfile/live/1089_1.m3u8
-嘉佳卡通[768*576],http://116.11.140.52:8181/tsfile/live/1090_1.m3u8
-云南卫视[785*576],http://116.11.140.52:8181/tsfile/live/0119_1.m3u8
-重庆卫视[785*576],http://116.11.140.52:8181/tsfile/live/0142_1.m3u8
-三沙卫视[785*576],http://116.11.140.52:8181/tsfile/live/1010_1.m3u8
-河北卫视[785*576],http://116.11.140.52:8181/tsfile/live/0132_1.m3u8
-兵团卫视[785*576],http://116.11.140.52:8181/tsfile/live/1011_1.m3u8
-宁夏卫视[785*576],http://116.11.140.52:8181/tsfile/live/1012_1.m3u8
-山西卫视[785*576],http://116.11.140.52:8181/tsfile/live/0118_1.m3u8
-陕西卫视[785*576],http://116.11.140.52:8181/tsfile/live/0136_1.m3u8
-河南卫视[785*576],http://116.11.140.52:8181/tsfile/live/0139_1.m3u8
-湖北卫视[768*576],http://116.11.140.52:8181/tsfile/live/0132_2.m3u8
-天津卫视[785*576],http://116.11.140.52:8181/tsfile/live/0135_1.m3u8
-新疆卫视[785*576],http://116.11.140.52:8181/tsfile/live/0110_1.m3u8
-西藏卫视[785*576],http://116.11.140.52:8181/tsfile/live/0111_1.m3u8
-吉林卫视[785*576],http://116.11.140.52:8181/tsfile/live/0116_1.m3u8
-青海卫视[785*576],http://116.11.140.52:8181/tsfile/live/0140_1.m3u8
-内蒙古卫视[785*576],http://116.11.140.52:8181/tsfile/live/1003_1.m3u8
-
 🐼丨广东电信,#genre#
 广东卫视,http://218.13.74.202:9901/tsfile/live/0001_4.m3u8
 广东民生,http://218.13.74.202:9901/tsfile/live/0001_1.m3u8
@@ -1607,7 +1504,7 @@ CCTV5+体育赛事高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts
 广东新闻,http://218.13.74.202:9901/tsfile/live/0001_5.m3u8
 广东移动,http://218.13.74.202:9901/tsfile/live/0001_37.m3u8
 CCTV-1 综合,http://218.13.74.202:9901/tsfile/live/0001_38.m3u8
-CCTV-2 *经,http://218.13.74.202:9901/tsfile/live/0001_47.m3u8
+CCTV-2 才经,http://218.13.74.202:9901/tsfile/live/0001_47.m3u8
 CCTV-3 综艺,http://218.13.74.202:9901/tsfile/live/0001_9.m3u8
 CCTV-4 国际,http://218.13.74.202:9901/tsfile/live/0001_43.m3u8
 CCTV-5 体育,http://218.13.74.202:9901/tsfile/live/0001_7.m3u8
@@ -1654,7 +1551,7 @@ CGTN,http://218.13.74.202:9901/tsfile/live/0001_10.m3u8
 🐼丨山东电信,#genre#
 //山东电信
 CCTV-1综合,http://222.175.159.226:808/hls/20231/index.m3u8
-CCTV-2*经,http://222.175.159.226:808/hls/20232/index.m3u8
+CCTV-2才经,http://222.175.159.226:808/hls/20232/index.m3u8
 CCTV-3综艺,http://222.175.159.226:808/hls/20233/index.m3u8
 CCTV-4国际,http://222.175.159.226:808/hls/20234/index.m3u8
 CCTV-5体育,http://222.175.159.226:808/hls/20235/index.m3u8
@@ -1705,7 +1602,7 @@ CCTV-17农村,http://222.175.159.226:808/hls/202318/index.m3u8
 🐼丨广西电信,#genre#
 //广西贵港平南县 电信
 CCTV-1 综合,http://171.108.239.101:8020/tsfile/live/1027_1.m3u8
-CCTV-2 *经,http://171.108.239.101:8020/tsfile/live/1028_1.m3u8
+CCTV-2 才经,http://171.108.239.101:8020/tsfile/live/1028_1.m3u8
 CCTV-3 综艺,http://171.108.239.101:8020/tsfile/live/1029_1.m3u8
 CCTV-4 国际,http://171.108.239.101:8020/tsfile/live/1030_1.m3u8
 CCTV-5 体育,http://171.108.239.101:8020/tsfile/live/1031_1.m3u8
@@ -1990,7 +1887,7 @@ CCM电影[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?15
 风云足球[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?16
 CHC动作电影[1280*720],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?17
 CCTV-1综合[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?18
-CCTV-2*经[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?19
+CCTV-2才经[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?19
 CCTV-3综艺[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?20
 CCTV-4中文国际[768*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?21
 CCTV-5体育[1024*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?22

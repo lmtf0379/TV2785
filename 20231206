@@ -1,6 +1,6 @@
 //更多直播源请关注 公众号：看电视呗
 🐼丨官方专区,#genre#
-CCTV-2 财经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV-2 *经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV-5 体育,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_pd.m3u8#http://mlivewbndali.v.myalicdn.com/mlivewbnd/mlive44_2pd.m3u8
 CCTV-6 电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8#http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
@@ -20,7 +20,7 @@ CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https:
 
 🐼丨咪咕专区,#genre#
 CCTV-1 综合,https://www.sxtv.top/migu.php?id=cctv1b#http://www.biaozhun114.com/dl/dl666/aikan.php?id=1#http://www.biaozhun114.com/dl/dl666/aikan.php?id=2
-CCTV-2 财经,https://www.sxtv.top/migu.php?id=cctv2#http://www.biaozhun114.com/dl/dl666/aikan.php?id=3
+CCTV-2 *经,https://www.sxtv.top/migu.php?id=cctv2#http://www.biaozhun114.com/dl/dl666/aikan.php?id=3
 CCTV-3 综艺,https://www.sxtv.top/migu.php?id=cctv3#http://www.biaozhun114.com/dl/dl666/aikan.php?id=4
 CCTV-4 国际,https://www.sxtv.top/migu.php?id=cctv4#http://www.biaozhun114.com/dl/dl666/aikan.php?id=5
 CCTV-4 欧洲,http://www.biaozhun114.com/dl/dl666/gzyd.php?6268
@@ -89,7 +89,7 @@ CHC家庭影院,https://www.sxtv.top/migu.php?id=chcjtyy#http://www.biaozhun114.
 
 🐼丨移动IPV6,#genre#
 CCTV-1 综合,http://www.biaozhun114.com/tvbox/iptv9.php?1022
-CCTV-2 财经,http://www.biaozhun114.com/tvbox/iptv9.php?1220
+CCTV-2 *经,http://www.biaozhun114.com/tvbox/iptv9.php?1220
 CCTV-3 综艺,http://www.biaozhun114.com/tvbox/iptv9.php?1186
 CCTV-4 国际,http://www.biaozhun114.com/tvbox/iptv9.php?1221
 CCTV-5 体育,http://www.biaozhun114.com/tvbox/iptv8.php?6587#http://www.biaozhun114.com/tvbox/iptv9.php?1187
@@ -140,17 +140,17 @@ CCTV-17 农业,http://www.biaozhun114.com/tvbox/iptv9.php?1241
 三沙卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1185
 兵团卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1066#http://116.11.140.52:8181/tsfile/live/1011_1.m3u8
 东方影视,http://www.biaozhun114.com/tvbox/iptv9.php?1016
-东方财经,http://www.biaozhun114.com/tvbox/iptv9.php?1318
+东方*经,http://www.biaozhun114.com/tvbox/iptv9.php?1318
 东方购物,http://www.biaozhun114.com/tvbox/iptv9.php?1039#http://www.biaozhun114.com/tvbox/iptv9.php?1040
 生活时尚,http://www.biaozhun114.com/tvbox/iptv9.php?1199
 七彩戏剧,http://www.biaozhun114.com/tvbox/iptv9.php?1308
-第一财经,http://www.biaozhun114.com/tvbox/iptv9.php?1017#https://angtv.cc/test/bestv.php?id=dycjhd8m/8000000
+第一*经,http://www.biaozhun114.com/tvbox/iptv9.php?1017#https://angtv.cc/test/bestv.php?id=dycjhd8m/8000000
 欢笑剧场,http://www.biaozhun114.com/tvbox/iptv9.php?1193
 法治天地,http://www.biaozhun114.com/tvbox/iptv9.php?1195
 都市剧场,http://www.biaozhun114.com/tvbox/iptv9.php?1203
 金色学堂,http://www.biaozhun114.com/tvbox/iptv9.php?1194
-家庭理财,http://www.biaozhun114.com/tvbox/iptv9.php?1278
-财富天下,http://www.biaozhun114.com/tvbox/iptv9.php?1219
+家庭理*,http://www.biaozhun114.com/tvbox/iptv9.php?1278
+*富天下,http://www.biaozhun114.com/tvbox/iptv9.php?1219
 纪实科教,http://www.biaozhun114.com/tvbox/iptv9.php?1231
 中国天气,http://www.biaozhun114.com/tvbox/iptv9.php?1102
 金鹰纪实,http://www.biaozhun114.com/tvbox/iptv9.php?1230
@@ -323,7 +323,7 @@ CCTV高尔夫网,http://111.20.40.170/PLTV/88888893/224/3221226978/index.m3u8
 北京|北京文艺,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/index.m3u8
 北京|北京影视,https://iptv.luas.edu.cn/liverespath/81c76654ab5e6ce4d49c97b9eeccebcf3f579c01/index.m3u8
 北京|北京影视,https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
-北京|北京财经,https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/index.m3u8
+北京|北京*经,https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/index.m3u8
 北京|纪实科教,https://iptv.luas.edu.cn/liverespath/72e61aa5ca26beb9dd17a950d2a8c6171a5cd998/index.m3u8
 北京|北京体育,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
 北京|北京体育,https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/index.m3u8
@@ -674,7 +674,7 @@ CCTV高尔夫网,http://111.20.40.170/PLTV/88888893/224/3221226978/index.m3u8
 安徽|安徽影视,http://stream.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽|安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽|合肥新闻,http://live.qiyuevod.com/tyoetv/titv.php?id=hfxw
-安徽|合肥财经,http://live.qiyuevod.com/tyoetv/titv.php?id=hfcj
+安徽|合肥*经,http://live.qiyuevod.com/tyoetv/titv.php?id=hfcj
 安徽|合肥公共,http://live.qiyuevod.com/tyoetv/titv.php?id=hfgg
 安徽|合肥故事休闲,http://live.qiyuevod.com/tyoetv/titv.php?id=hfxx
 安徽|合肥教育法治,http://live.qiyuevod.com/tyoetv/titv.php?id=hfjy
@@ -1541,7 +1541,7 @@ CCTV5＋,http://61.148.223.18:8888/newlive/live/hls/18/live.m3u8
 辽宁卫视高清,http://61.148.223.18:8888/newlive/live/hls/43/live.m3u8
 BTV科教,http://61.148.223.18:8888/newlive/live/hls/44/live.m3u8
 BTV生活,http://61.148.223.18:8888/newlive/live/hls/45/live.m3u8
-BTV财*,http://61.148.223.18:8888/newlive/live/hls/46/live.m3u8
+BTV**,http://61.148.223.18:8888/newlive/live/hls/46/live.m3u8
 BTV文艺高清,http://61.148.223.18:8888/newlive/live/hls/47/live.m3u8
 BTV卡酷少儿,http://61.148.223.18:8888/newlive/live/hls/48/live.m3u8
 BTV国际频道,http://61.148.223.18:8888/newlive/live/hls/49/live.m3u8
@@ -1588,8 +1588,8 @@ CCTV-5+高清,http://media.hndyjyfw.gov.cn/live/jz-cctv-5-plus/live.m3u8
 //兰州文理学院
 CCTV1综合,https://iptv.luas.edu.cn/liverespath/ddd8a0727fb304df5adb6926e09d6000ecd0e322/index.m3u8
 CCTV1综合高清,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
-CCTV2财经,https://iptv.luas.edu.cn/liverespath/4a76af41d4831385db6f97ef28ed3240e9a04c72/index.m3u8
-CCTV2财经高清,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/index.m3u8
+CCTV2*经,https://iptv.luas.edu.cn/liverespath/4a76af41d4831385db6f97ef28ed3240e9a04c72/index.m3u8
+CCTV2*经高清,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/index.m3u8
 CCTV3综艺,https://iptv.luas.edu.cn/liverespath/4112f13561cff5bd2be250480f4abed975bf48a1/index.m3u8
 CCTV3综艺高清,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/index.m3u8
 CCTV4中文国际,https://iptv.luas.edu.cn/liverespath/487288bea52497cdd5be093cdd29156a3548575f/index.m3u8
@@ -1677,7 +1677,7 @@ CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9
 北京文艺高清,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/index.m3u8
 北京影视,https://iptv.luas.edu.cn/liverespath/81c76654ab5e6ce4d49c97b9eeccebcf3f579c01/index.m3u8
 北京影视高清,https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
-北京财经,https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/index.m3u8
+北京*经,https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/index.m3u8
 北京纪实科教,https://iptv.luas.edu.cn/liverespath/72e61aa5ca26beb9dd17a950d2a8c6171a5cd998/index.m3u8
 北京体育休闲,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
 北京体育休闲高清,https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/index.m3u8
@@ -1725,7 +1725,7 @@ CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9
 
 🐼丨玉林电信,#genre#
 东森新闻台1[1920*1080],http://116.11.140.52:8181/tsfile/live/1201_1.m3u8
-东森财经新闻台03[1920*1080],http://116.11.140.52:8181/tsfile/live/1203_1.m3u8
+东森*经新闻台03[1920*1080],http://116.11.140.52:8181/tsfile/live/1203_1.m3u8
 星空卫视08[1920*1080],http://116.11.140.52:8181/tsfile/live/1208_1.m3u8
 东森洋片18[1920*1080],http://116.11.140.52:8181/tsfile/live/1218_1.m3u8
 东森电影22[1920*1080],http://116.11.140.52:8181/tsfile/live/1222_1.m3u8
@@ -1756,7 +1756,7 @@ CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9
 南宁影视 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1085_1.m3u8
 广西影视 高清[1920*1080],http://116.11.140.52:8181/tsfile/live/1033_1.m3u8
 CCTV1-综合高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts/0001_1.m3u8
-CCTV2-财经高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0002_1.m3u8
+CCTV2-*经高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0002_1.m3u8
 CCTV3-综艺高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts/0003_1.m3u8
 CCTV4-国际高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0004_1.m3u8
 CCTV5-体育高清[1920*1080],http://116.11.140.52:8181/tsfile/live/0005_1.m3u8
@@ -1832,7 +1832,7 @@ CCTV5+体育赛事高清[1920*1080],http://116.11.140.52:8181/tsfile/live/faacts
 广东新闻,http://218.13.74.202:9901/tsfile/live/0001_5.m3u8
 广东移动,http://218.13.74.202:9901/tsfile/live/0001_37.m3u8
 CCTV-1 综合,http://218.13.74.202:9901/tsfile/live/0001_38.m3u8
-CCTV-2 财经,http://218.13.74.202:9901/tsfile/live/0001_47.m3u8
+CCTV-2 *经,http://218.13.74.202:9901/tsfile/live/0001_47.m3u8
 CCTV-3 综艺,http://218.13.74.202:9901/tsfile/live/0001_9.m3u8
 CCTV-4 国际,http://218.13.74.202:9901/tsfile/live/0001_43.m3u8
 CCTV-5 体育,http://218.13.74.202:9901/tsfile/live/0001_7.m3u8
@@ -1879,7 +1879,7 @@ CGTN,http://218.13.74.202:9901/tsfile/live/0001_10.m3u8
 🐼丨山东电信,#genre#
 //山东电信
 CCTV-1综合,http://222.175.159.226:808/hls/20231/index.m3u8
-CCTV-2财经,http://222.175.159.226:808/hls/20232/index.m3u8
+CCTV-2*经,http://222.175.159.226:808/hls/20232/index.m3u8
 CCTV-3综艺,http://222.175.159.226:808/hls/20233/index.m3u8
 CCTV-4国际,http://222.175.159.226:808/hls/20234/index.m3u8
 CCTV-5体育,http://222.175.159.226:808/hls/20235/index.m3u8
@@ -1930,7 +1930,7 @@ CCTV-17农村,http://222.175.159.226:808/hls/202318/index.m3u8
 🐼丨广西电信,#genre#
 //广西贵港平南县 电信
 CCTV-1 综合,http://171.108.239.101:8020/tsfile/live/1027_1.m3u8
-CCTV-2 财经,http://171.108.239.101:8020/tsfile/live/1028_1.m3u8
+CCTV-2 *经,http://171.108.239.101:8020/tsfile/live/1028_1.m3u8
 CCTV-3 综艺,http://171.108.239.101:8020/tsfile/live/1029_1.m3u8
 CCTV-4 国际,http://171.108.239.101:8020/tsfile/live/1030_1.m3u8
 CCTV-5 体育,http://171.108.239.101:8020/tsfile/live/1031_1.m3u8
@@ -2094,8 +2094,8 @@ CHC家庭影院,https://www.sxtv.top/sxg.php?id=jbtygqCHCjtyyH265_4000
 极速汽车,https://www.sxtv.top/sxg.php?id=jsqcH265_4000
 纪实科教,https://www.sxtv.top/sxg.php?id=bjjs_2000
 嘉佳卡通,https://www.sxtv.top/sxg.php?id=jjkt_2000
-家庭理财,https://www.sxtv.top/sxg.php?id=jtlc_4000
-江苏财富天下,https://www.sxtv.top/sxg.php?id=cftx_4000
+家庭理*,https://www.sxtv.top/sxg.php?id=jtlc_4000
+江苏*富天下,https://www.sxtv.top/sxg.php?id=cftx_4000
 金鹰纪实,https://www.sxtv.top/sxg.php?id=jyjsHDH265_4000
 金鹰卡通,https://www.sxtv.top/sxg.php?id=jykt_2000
 劲爆体育,https://www.sxtv.top/sxg.php?id=lqhxjcHDH265_4000
@@ -2215,7 +2215,7 @@ CCM电影[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?15
 风云足球[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?16
 CHC动作电影[1280*720],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?17
 CCTV-1综合[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?18
-CCTV-2财经[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?19
+CCTV-2*经[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?19
 CCTV-3综艺[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?20
 CCTV-4中文国际[768*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?21
 CCTV-5体育[1024*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?22
@@ -2249,7 +2249,7 @@ CCTV-17农业[768*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?34
 优漫卡通[1024*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?54
 中国教育[768*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?55
 山东教育[1024*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?56
-财富天下[768*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?57
+*富天下[768*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?57
 广东卫视[1920*1080],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?58
 南方卫视[1024*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?59
 湖南卫视[768*576],http://www.biaozhun114.com/dl/dl666/jdgdjy.php?60

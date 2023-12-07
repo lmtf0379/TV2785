@@ -3,12 +3,6 @@
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8#http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-更多直播,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-请去关注,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-公众号：,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-看电视呗,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-
-🐼丨卫视专区,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
 广西卫视,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8#http://live.gxrb.com.cn/tv/gxtvlive01/index.m3u8
@@ -1491,57 +1485,6 @@ CHC家庭影院,https://iptv.luas.edu.cn/liverespath/449d51febadb152094085d373b9
 北京新闻高清,https://iptv.luas.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/index.m3u8
 北京卡酷少儿,https://iptv.luas.edu.cn/liverespath/b928229e615248d7a2c6f9ea047f25cf37a3a0af/index.m3u8
 上海纪实人文高清,https://iptv.luas.edu.cn/liverespath/98a578339579ce91ec2443bfbd1fc3af10ee02bd/index.m3u8
-
-🐼丨广东电信,#genre#
-广东卫视,http://218.13.74.202:9901/tsfile/live/0001_4.m3u8
-广东民生,http://218.13.74.202:9901/tsfile/live/0001_1.m3u8
-广东影视,http://218.13.74.202:9901/tsfile/live/0001_3.m3u8
-广东体育,http://218.13.74.202:9901/tsfile/live/0001_2.m3u8
-广东新闻,http://218.13.74.202:9901/tsfile/live/0001_5.m3u8
-广东移动,http://218.13.74.202:9901/tsfile/live/0001_37.m3u8
-CCTV-1 综合,http://218.13.74.202:9901/tsfile/live/0001_38.m3u8
-CCTV-2 才经,http://218.13.74.202:9901/tsfile/live/0001_47.m3u8
-CCTV-3 综艺,http://218.13.74.202:9901/tsfile/live/0001_9.m3u8
-CCTV-4 国际,http://218.13.74.202:9901/tsfile/live/0001_43.m3u8
-CCTV-5 体育,http://218.13.74.202:9901/tsfile/live/0001_7.m3u8
-CCTV5+ 赛事,http://218.13.74.202:9901/tsfile/live/0001_36.m3u8
-CCTV-6 电影,http://218.13.74.202:9901/tsfile/live/0001_6.m3u8
-CCTV-7 军事,http://218.13.74.202:9901/tsfile/live/0001_45.m3u8
-CCTV-8 电视,http://218.13.74.202:9901/tsfile/live/0001_8.m3u8
-CCTV-9 纪录,http://218.13.74.202:9901/tsfile/live/0001_40.m3u8
-CCTV-10 科教,http://218.13.74.202:9901/tsfile/live/0001_44.m3u8
-CCTV-11 戏曲,http://218.13.74.202:9901/tsfile/live/0001_48.m3u8
-CCTV-12 社会,http://218.13.74.202:9901/tsfile/live/0001_46.m3u8
-CCTV-13 新闻,http://218.13.74.202:9901/tsfile/live/0001_39.m3u8
-CCTV-14 少儿,http://218.13.74.202:9901/tsfile/live/0001_41.m3u8
-CCTV-15 音乐,http://218.13.74.202:9901/tsfile/live/0001_42.m3u8
-CCTV-17 农业,http://218.13.74.202:9901/tsfile/live/0001_49.m3u8
-CGTN,http://218.13.74.202:9901/tsfile/live/0001_10.m3u8
-深圳卫视,http://218.13.74.202:9901/tsfile/live/0001_11.m3u8
-北京卫视,http://218.13.74.202:9901/tsfile/live/0001_18.m3u8
-山西卫视,http://218.13.74.202:9901/tsfile/live/0001_20.m3u8
-云南卫视,http://218.13.74.202:9901/tsfile/live/0001_30.m3u8
-江西卫视,http://218.13.74.202:9901/tsfile/live/0001_27.m3u8
-四川卫视,http://218.13.74.202:9901/tsfile/live/0001_34.m3u8
-湖南卫视,http://218.13.74.202:9901/tsfile/live/0001_19.m3u8
-广西卫视,http://218.13.74.202:9901/tsfile/live/0001_32.m3u8
-辽宁卫视,http://218.13.74.202:9901/tsfile/live/0001_17.m3u8
-山东卫视,http://218.13.74.202:9901/tsfile/live/0001_28.m3u8
-浙江卫视,http://218.13.74.202:9901/tsfile/live/0001_29.m3u8
-湖北卫视,http://218.13.74.202:9901/tsfile/live/0001_12.m3u8
-陕西卫视,http://218.13.74.202:9901/tsfile/live/0001_13.m3u8
-河北卫视,http://218.13.74.202:9901/tsfile/live/0001_25.m3u8
-江苏卫视,http://218.13.74.202:9901/tsfile/live/0001_35.m3u8
-东南卫视,http://218.13.74.202:9901/tsfile/live/0001_15.m3u8
-东方卫视,http://218.13.74.202:9901/tsfile/live/0001_26.m3u8
-安徽卫视,http://218.13.74.202:9901/tsfile/live/0001_33.m3u8
-天津卫视,http://218.13.74.202:9901/tsfile/live/0001_31.m3u8
-龙江卫视,http://218.13.74.202:9901/tsfile/live/0001_16.m3u8
-贵州卫视,http://218.13.74.202:9901/tsfile/live/0001_24.m3u8
-河南卫视,http://218.13.74.202:9901/tsfile/live/0001_14.m3u8
-重庆卫视,http://218.13.74.202:9901/tsfile/live/0001_23.m3u8
-青海卫视,,http://218.13.74.202:9901/tsfile/live/0001_21.m3u8
-吉林卫视,http://218.13.74.202:9901/tsfile/live/0001_22.m3u8
 
 
 🐼丨山东电信,#genre#

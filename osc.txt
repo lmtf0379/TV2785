@@ -1,15 +1,15 @@
 {
 "sites":[
-{"key":"csp_biubiu_大象TV","name":"看电视呗","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.bilnn.com/api/v3/file/sourcejump/r4mrBmUe/hQZb7LnK34ZRBqFil90x8bYr_E1WcLBHm0T5gO_k_9o*"}
+{"key":"csp_biubiu_大象TV","name":"看电视呗","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":""}
 ],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"线路1","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url="},
-{"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
-{"name":"parwix1","type":0,"url":"https://jx.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
+{"name":"线路1","type":1,"url":""},
+{"name":"Pro","type":1,"url":"","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
+{"name":"parwix1","type":0,"url":"","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
 ],
 "lives": [
 {
@@ -18,14 +18,14 @@
 {
 "name": "redirect",
 "urls": [
-"proxy://do=live&type=txt&ext=aHR0cCUzQS8vd3d3LmJpYW96aHVuMTE0LmNvbS90dmJveC5waHA="
+"proxy://do=live&type=txt&ext=aHR0cDovL3d3dy5iaWFvemh1bjExNC5jb20vdHZib3gucGhw"
 ]
 }
 ]
 }
 ],
 
-"spider":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
+"spider":"",
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[

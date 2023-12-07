@@ -17,7 +17,7 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-p
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 🐼丨咪咕专区,#genre#
-CCTV1,http://www.biaozhun114.com/dl/dl666/aikan.php?id=1#http://www.biaozhun114.com/dl/dl666/aikan.php?id=2
+CCTV1,http://www.biaozhun114.com/dl/dl666/aikan.php?id=2
 CCTV2,http://www.biaozhun114.com/dl/dl666/aikan.php?id=3
 CCTV3,http://www.biaozhun114.com/dl/dl666/aikan.php?id=4
 CCTV4,http://www.biaozhun114.com/dl/dl666/aikan.php?id=5
@@ -225,3 +225,10 @@ CCTV女性时尚,http://111.20.40.172/PLTV/88888893/224/3221226969/index.m3u8
 CCTV女性时尚,http://111.20.40.173/PLTV/88888893/224/3221226969/index.m3u8
 CCTV风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 CCTV高尔夫网,http://111.20.40.170/PLTV/88888893/224/3221226978/index.m3u8
+
+🐼丨特色频道,#genre#
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+凤凰卫视中文台,http://171.108.239.101:8020/tsfile/live/1024_1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8#http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8#http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv#http://116.11.140.52:8181/tsfile/live/1207_1.m3u8
+凤凰卫视咨询台,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8#http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8#http://r.jdshipin.com/0Rp07#http://116.11.140.52:8181/tsfile/live/1221_1.m3u8
+凤凰卫视香港台,http://171.108.239.101:8020/tsfile/live/1025_1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8

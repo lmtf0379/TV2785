@@ -1,9 +1,9 @@
 //更多直播源请关注 公众号：看电视呗
 🐼丨官方专区,#genre#
-CCTV-2 才经,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV-5 体育,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_pd.m3u8#http://mlivewbndali.v.myalicdn.com/mlivewbnd/mlive44_2pd.m3u8
-CCTV-6 电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8#http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
-CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV5,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_pd.m3u8#http://mlivewbndali.v.myalicdn.com/mlivewbnd/mlive44_2pd.m3u8
+CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8#http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
 广西卫视,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8#http://live.gxrb.com.cn/tv/gxtvlive01/index.m3u8
@@ -78,23 +78,23 @@ CHC家庭影院,http://www.biaozhun114.com/dl/dl666/aikan.php?id=25
 新片放映,http://www.biaozhun114.com/dl/dl666/aikan.php?id=61
 
 🐼丨移动IPV6,#genre#
-CCTV-1 综合,http://www.biaozhun114.com/tvbox/iptv9.php?1022
-CCTV-2 才经,http://www.biaozhun114.com/tvbox/iptv9.php?1220
-CCTV-3 综艺,http://www.biaozhun114.com/tvbox/iptv9.php?1186
-CCTV-4 国际,http://www.biaozhun114.com/tvbox/iptv9.php?1221
-CCTV-5 体育,http://www.biaozhun114.com/tvbox/iptv8.php?6587#http://www.biaozhun114.com/tvbox/iptv9.php?1187
-CCTV-6 电影,http://www.biaozhun114.com/tvbox/iptv9.php?1188
-CCTV-7 军事,http://www.biaozhun114.com/tvbox/iptv9.php?1236
-CCTV-8 电视,http://www.biaozhun114.com/tvbox/iptv9.php?1189
-CCTV-9 纪录,http://www.biaozhun114.com/tvbox/iptv9.php?1237
-CCTV-10 科教,http://www.biaozhun114.com/tvbox/iptv9.php?1238
-CCTV-11 戏曲,http://www.biaozhun114.com/tvbox/iptv9.php?1309
-CCTV-12 社会,http://www.biaozhun114.com/tvbox/iptv9.php?1239
-CCTV-13 新闻,http://www.biaozhun114.com/tvbox/iptv9.php?1328
-CCTV-14 少儿,http://www.biaozhun114.com/tvbox/iptv9.php?1240
-CCTV-15 音乐,http://www.biaozhun114.com/tvbox/iptv9.php?1338
-CCTV-16 奥林,http://www.biaozhun114.com/tvbox/iptv9.php?1248#http://www.biaozhun114.com/tvbox/iptv9.php?1258
-CCTV-17 农业,http://www.biaozhun114.com/tvbox/iptv9.php?1241
+CCTV1,http://www.biaozhun114.com/tvbox/iptv9.php?1022
+CCTV2,http://www.biaozhun114.com/tvbox/iptv9.php?1220
+CCTV3,http://www.biaozhun114.com/tvbox/iptv9.php?1186
+CCTV4,http://www.biaozhun114.com/tvbox/iptv9.php?1221
+CCTV5,http://www.biaozhun114.com/tvbox/iptv8.php?6587#http://www.biaozhun114.com/tvbox/iptv9.php?1187
+CCTV6,http://www.biaozhun114.com/tvbox/iptv9.php?1188
+CCTV7,http://www.biaozhun114.com/tvbox/iptv9.php?1236
+CCTV8,http://www.biaozhun114.com/tvbox/iptv9.php?1189
+CCTV9,http://www.biaozhun114.com/tvbox/iptv9.php?1237
+CCTV10,http://www.biaozhun114.com/tvbox/iptv9.php?1238
+CCTV11,http://www.biaozhun114.com/tvbox/iptv9.php?1309
+CCTV12,http://www.biaozhun114.com/tvbox/iptv9.php?1239
+CCTV13,http://www.biaozhun114.com/tvbox/iptv9.php?1328
+CCTV14,http://www.biaozhun114.com/tvbox/iptv9.php?1240
+CCTV15,http://www.biaozhun114.com/tvbox/iptv9.php?1338
+CCTV16,http://www.biaozhun114.com/tvbox/iptv9.php?1248#http://www.biaozhun114.com/tvbox/iptv9.php?1258
+CCTV17,http://www.biaozhun114.com/tvbox/iptv9.php?1241
 湖南卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1026
 东方卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1013
 江苏卫视,http://www.biaozhun114.com/tvbox/iptv9.php?1033
@@ -309,20 +309,20 @@ CCTV风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 CCTV高尔夫网,http://111.20.40.170/PLTV/88888893/224/3221226978/index.m3u8
 
 🐼丨10北京地区,#genre#
-北京|北京文艺,https://iptv.luas.edu.cn/liverespath/d733639566a36d59f45cfa348b5807b7d94b02a1/index.m3u8
-北京|北京文艺,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/index.m3u8
-北京|北京影视,https://iptv.luas.edu.cn/liverespath/81c76654ab5e6ce4d49c97b9eeccebcf3f579c01/index.m3u8
-北京|北京影视,https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
-北京|北京才经,https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/index.m3u8
-北京|纪实科教,https://iptv.luas.edu.cn/liverespath/72e61aa5ca26beb9dd17a950d2a8c6171a5cd998/index.m3u8
-北京|北京体育,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
-北京|北京体育,https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/index.m3u8
-北京|北京生活,https://iptv.luas.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/index.m3u8
-北京|北京新闻,https://live.funhillrm.com/5/sd/live.m3u8#https://iptv.luas.edu.cn/liverespath/b19542a8760e5fc0346098925cbafdd9e23395f4/index.m3u8
-北京|北京新闻,https://iptv.luas.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/index.m3u8
-北京|卡酷少儿,https://iptv.luas.edu.cn/liverespath/b928229e615248d7a2c6f9ea047f25cf37a3a0af/index.m3u8
-北京|石景山,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-北京|房山电视台,http://live.funhillrm.com/2/sd/live.m3u8
+北京文艺,https://iptv.luas.edu.cn/liverespath/d733639566a36d59f45cfa348b5807b7d94b02a1/index.m3u8
+北京文艺,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/index.m3u8
+北京影视,https://iptv.luas.edu.cn/liverespath/81c76654ab5e6ce4d49c97b9eeccebcf3f579c01/index.m3u8
+北京影视,https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
+北京才经,https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/index.m3u8
+纪实科教,https://iptv.luas.edu.cn/liverespath/72e61aa5ca26beb9dd17a950d2a8c6171a5cd998/index.m3u8
+北京体育,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
+北京体育,https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/index.m3u8
+北京生活,https://iptv.luas.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/index.m3u8
+北京新闻,https://live.funhillrm.com/5/sd/live.m3u8#https://iptv.luas.edu.cn/liverespath/b19542a8760e5fc0346098925cbafdd9e23395f4/index.m3u8
+北京新闻,https://iptv.luas.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/index.m3u8
+卡酷少儿,https://iptv.luas.edu.cn/liverespath/b928229e615248d7a2c6f9ea047f25cf37a3a0af/index.m3u8
+石景山,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+房山电视台,http://live.funhillrm.com/2/sd/live.m3u8
 
 🐼丨11天津地区,#genre#
 天津|新闻频道,http://117.14.55.102:18080/hls/34/index.m3u8

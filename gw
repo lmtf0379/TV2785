@@ -1,15 +1,44 @@
 
 🐼丨国际频道,#genre#
+//中国国际电视台
 CGTN英语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8#http://live.cgtn.com/1000/prog_index.m3u8#http://218.13.74.202:9901/tsfile/live/0001_11.m3u8
 CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 CGTN西语,http://livees.cgtn.com/500e/prog_index.m3u8
 CGTN阿语,https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 CGTN俄语,https://liveru.cgtn.com/500r/prog_index.m3u8
 CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+//日本
 日本新闻台,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 日本华语,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+朝日电视台,https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+日本NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+日本NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+日本NHKWORLD,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+日本NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+日本QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+日本购物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+云游日本,http://bp-caster.bestv.com.cn/514/1/video.m3u8
+	
+音乐台	https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+富士电视台,https://ntv4.mov3.co/hls/ntv.m3u8
+TBS News,https://tbs3.mov3.co/hls/tbs.m3u8
+富士,https://fujitv4.mov3.co/hls/fujitv.m3u8
+
+//韩国
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+
+
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+
 华文一台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 华文六台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -18,7 +47,7 @@ BRICS台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 乌克兰台,https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
 泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
 朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
 俄罗斯台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8

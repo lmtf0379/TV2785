@@ -1,4 +1,5 @@
 🐼丨港台频道,#genre#
+//香港
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 凤凰卫视中文台,http://171.108.239.101:8020/tsfile/live/1024_1.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8#http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8#http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv#http://116.11.140.52:8181/tsfile/live/1207_1.m3u8
@@ -35,7 +36,6 @@ ViuTV,http://r.jdshipin.com/vSJvl
 CHANNEL-V,http://xstartx.com:4000/udp/239.93.0.157:2194
 CHANNEL-V,http://xstartx.com:4000/udp/239.93.1.7:2194
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8

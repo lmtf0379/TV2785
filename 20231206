@@ -1,9 +1,14 @@
 //更多直播源请关注 公众号：看电视呗
 🐼丨看电视呗,#genre#
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-CCTV5,http://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive44_2_pd.m3u8#http://mlivewbndali.v.myalicdn.com/mlivewbnd/mlive44_2pd.m3u8
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901_fhd.m3u8#http://mobilelive-pull.ysp.cctv.cn/ysp/2013693901_fhd.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+更多直播,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+请去关注,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+公众号：,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+看电视呗,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
+🐼丨卫视专区,#genre#
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
 广西卫视,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8#http://live.gxrb.com.cn/tv/gxtvlive01/index.m3u8
@@ -16,10 +21,6 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-p
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-更多直播,
-请去关注,
-公众号：,
-看电视呗,
 
 🐼丨咪咕专区,#genre#
 CCTV1,http://www.biaozhun114.com/dl/dl666/aikan.php?id=1#http://www.biaozhun114.com/dl/dl666/aikan.php?id=2

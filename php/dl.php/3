@@ -1,0 +1,11 @@
+<?php
+$id=isset($_GET['id'])?:'hyxwzh';
+$n = array(
+'hyxwzh'=>'347',//衡阳新闻综合
+'hygg'=>"348",//衡阳公共
+);
+$d=file_get_contents("https://filex.gd.hy.dingtoo.com//NewWebChannel/LiveBroadcastDetails?ID=".$n[$id]);
+$playurl=json_decode($d)->Data[0]->LinkURL;
+//echo $playurl;
+header('Location: '.$playurl);
+?>

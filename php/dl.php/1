@@ -1,0 +1,28 @@
+<?php
+$id = isset($_GET['id'])?$_GET['id']:'zkxwzh';
+$n = array(
+   'zkxwzh' => 1,//周口新闻综合
+   'zkgg' => 2,//周口公共频道
+   'zkjy' => 3,//周口教育频道
+   'zktv4' => 4,//周口川汇频道
+);
+
+$d=file_get_contents('http://mms.yszkapp.cn:18080/mms4.6.3/videoPlayInterface/getChannelInfo.jspa?token=pmqhukcpyipvqmoz&channelId='.$n[$id]);
+$u=json_decode($d)->streamList[0]->streamURL;
+$_u=strstr($u,strrchr($u,".m3u8"),true);
+$_id=substr($_u,strripos($_u,"/")+1);
+
+$ch=curl_init();
+curl_setopt($ch, CURLOPT_URL, 'https://xcyapi.xinhuaxmt.com/v300/h5/live/getVideoState.json');
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_POSTFIELDS, '{"liveId":"'.$_id.'"}');
+curl_setopt($ch, CURLOPT_HTTPHEADER, array("Content-Type: application/json"));
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+$d = curl_exec($ch);
+curl_close($ch);
+$json = json_decode($d);
+//echo $d;
+    $playurl = $json -> data -> playStreamUrl;
+    header('Location: '.$playurl);
+?>

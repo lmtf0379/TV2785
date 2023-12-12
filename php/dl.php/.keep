@@ -1,0 +1,18 @@
+<?php
+$id = $_GET['id'] ?? 'zbxwzh';
+$n = array(
+    'zbxwzh'=> 5,//淄博新闻综合
+    'zbwl'=> 41,//淄博文旅
+    'zbms'=> 9,//淄博民生
+    'zbys'=> 37,//淄博影视
+);
+if(!!$n[$id]){
+    $res = file_get_contents('http://mapi.cbbn.net/api/v1/program.php?zone=0&channel_id='.$n[$id]);
+    foreach (json_decode($res, true) as $v) {
+        if(!!strstr($v['m3u8'],'playlist')) $playurl=$v['m3u8'];
+    }
+    //echo $playurl;
+    header('Location: '.$playurl);
+}
+exit(0);
+?>

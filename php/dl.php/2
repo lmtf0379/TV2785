@@ -1,0 +1,29 @@
+<?php
+$id = isset($_GET['id'])?$_GET['id']:'ahws';
+$ref='http://www.ahtv.cn/';
+$n = array(
+'ahws' => '11',//安徽卫视
+'jjsh' => '12',//经济生活
+'ahys' => '13',//影视频道
+'nykj' => '14',//农业科教
+'ahgg' => '16',//公共频道
+'zyty' => '17',//综艺体育
+'ahgj' => '18',//国际频道
+'ahrw' => '19',//人物频道
+);
+$d = json_decode(get('https://tvzb-hw.ahtv.cn/tvradio/Tvfront/getTvInfo?tv_id='.$n[$id],''));
+$playurl = $d->data->m3u8;
+print_r(get($playurl,$ref));
+
+function get($url,$r){
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_REFERER, $r);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
+$data = curl_exec($ch);
+curl_close($ch);
+return $data;
+}
+?>
